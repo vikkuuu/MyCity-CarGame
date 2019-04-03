@@ -14,7 +14,7 @@
                        Made from Scratch , pure C++ and OpenGL API.
                        Different Views(total 9, front ,rear ,cinematic etc.) can be set while driving.
                        
-# VEDIO LINKS:      
+# VIDEO LINKS:      
 - https://www.facebook.com/kartikrix/videos/1559597377460858/
 - https://www.youtube.com/watch?v=yXhjjOLnmHA&feature=share
                     
